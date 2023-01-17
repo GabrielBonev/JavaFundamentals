@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class p01Ages {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        // new Scanner
 
         int age = Integer.parseInt(scanner.nextLine());
 
